@@ -20,6 +20,7 @@ social media reporting tool, mass reporting script, TikTok spam bot report, Inst
 | 🔵 Facebook   | ✅ Supported | Spam & abuse              |
 
 
+```bash
 import threading
 import requests
 from queue import Queue
@@ -64,6 +65,8 @@ for _ in range(THREADS):
 
 q.join()
 print("✅ All reports dispatched.")
+
+```
 
 
 A fast, multi-threaded Python tool to mass-report spam, abuse, and fake accounts across Instagram, TikTok, X (Twitter), Facebook, and YouTube. Choose report types, customize threads, and automate moderation workflows.
