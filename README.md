@@ -69,8 +69,11 @@ print("✅ All reports dispatched.")
 ```
 
 
+
 A fast, multi-threaded Python tool to mass-report spam, abuse, and fake accounts across Instagram, TikTok, X (Twitter), Facebook, and YouTube. Choose report types, customize threads, and automate moderation workflows.
 
 💥 For digital rights protection, ethical reporting, and content moderation.
 
 social-media, automation, python, reporting, instagram, tiktok, twitter, youtube, facebook, mass-report, open-source, ethical-hacking, moderation, anti-spam
+
+> ⚠️ Use responsibly. This tool is for educational, ethical, and legal purposes only.
