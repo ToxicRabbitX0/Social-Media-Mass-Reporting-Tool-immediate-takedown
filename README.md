@@ -1,3 +1,11 @@
+<!--
+#️⃣ Tags:
+social media mass report, tiktok report bot, instagram takedown tool, youtube account reporter, digital threat removal, report spam bot, social media strike system, anti-influencer tool, content removal tool, covert mass report, automation report tool, tiktok spam report, user report spammer, dark web tools, redrepo, tiktok sniper tool
+
+📚 Keywords:
+mass reporting tool, tiktok account removal, report bot telegram, delete instagram account tool, youtube fake account remover, tiktok bot attack, bypass moderation tool, fake report system, tiktok enforcement software, social media deletion script
+-->
+
 # 🚨 Social-Media-Mass-Reporting-Tool — Immediate Takedown Engine
 
 > ⚡️ **Supports All Major Platforms:**
