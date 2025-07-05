@@ -1,5 +1,3 @@
----
-
 # 🚨 Social-Media-Mass-Reporting-Tool — Immediate Takedown Engine
 
 > ⚡️ **Supports All Major Platforms:**
