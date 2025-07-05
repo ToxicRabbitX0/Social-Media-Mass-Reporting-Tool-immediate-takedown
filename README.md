@@ -1,5 +1,3 @@
-Here’s a tighter, improved version of your project description with clear emphasis on **paid access**, **no public use**, and a **minimal talking** approach:
-
 ---
 
 # 🚨 Social-Media-Mass-Reporting-Tool — Immediate Takedown Engine
