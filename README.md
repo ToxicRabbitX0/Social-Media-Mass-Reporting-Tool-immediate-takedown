@@ -109,8 +109,8 @@ This tool is built for **private security, brand defense, and anti-harassment** 
 
 ## 💸 Pricing
 
-* 🔓 **Basic License** — \$800/month (Single user access)
-* 🛡 **Agency License** — \$3,500/month (Unlimited ops)
+* 🔓 **Basic License** — \$***/month (Single user access)
+* 🛡 **Agency License** — \$****/month (Unlimited ops)
 * 🧰 Custom deployments available for darknet ops
 
 📬 Request via [@RedRepo](https://t.me/RedRepo)
