@@ -13,7 +13,7 @@ mass report script, instant account deletion, abuse response automation, private
 > 🔒 Not for public use. Access granted **only by approval.**
 
 📩 Telegram Contact: [@RedRepo](https://t.me/RedRepo)  
-💰 Private license starts at **$800/month**
+💰 Private license starts at **$***/month**
 
 ---
 
